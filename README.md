@@ -1,1 +1,1 @@
-# 3-column-preview-card-fronendMentor
+# 3-column-preview-card-frontendMentor
